@@ -1,0 +1,16 @@
+module Num2(w1,w2,z);
+input w1,w2;
+output z;
+reg count;
+initial 
+	begin
+		count=1'b0;
+		repeat (4)
+		if(w1==w2)
+			z=1
+		else
+		z=0
+		end
+	endmodule
+			
+

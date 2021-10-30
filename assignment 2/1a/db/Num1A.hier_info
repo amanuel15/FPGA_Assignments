@@ -1,0 +1,8 @@
+|Num1A
+a => Nor1.IN0
+a => Nor2.IN0
+b => Nor1.IN1
+b => Nor2.IN1
+f <= Nor3.DB_MAX_OUTPUT_PORT_TYPE
+
+

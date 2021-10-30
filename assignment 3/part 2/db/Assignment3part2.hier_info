@@ -1,0 +1,27 @@
+|Assignment3part2
+clk => out[0]~reg0.CLK
+clk => out[1]~reg0.CLK
+clk => next_state~5.DATAIN
+clk => current_state~1.DATAIN
+rst => current_state.OUTPUTSELECT
+rst => current_state.OUTPUTSELECT
+rst => current_state.OUTPUTSELECT
+rst => current_state.OUTPUTSELECT
+rst => next_state.OUTPUTSELECT
+rst => next_state.OUTPUTSELECT
+rst => next_state.OUTPUTSELECT
+rst => next_state.OUTPUTSELECT
+rst => out[0]~reg0.ENA
+rst => out[1]~reg0.ENA
+in[0] => Equal0.IN31
+in[0] => Equal1.IN0
+in[0] => Equal2.IN1
+in[0] => Equal3.IN1
+in[1] => Equal0.IN30
+in[1] => Equal1.IN1
+in[1] => Equal2.IN0
+in[1] => Equal3.IN0
+out[0] <= out[0]~reg0.DB_MAX_OUTPUT_PORT_TYPE
+out[1] <= out[1]~reg0.DB_MAX_OUTPUT_PORT_TYPE
+
+

@@ -1,0 +1,37 @@
+|Num2
+w1 => always0.IN0
+w2 => always0.IN1
+z[0] <= always0.DB_MAX_OUTPUT_PORT_TYPE
+z[1] <= <GND>
+z[2] <= <GND>
+z[3] <= <GND>
+z[4] <= <GND>
+z[5] <= <GND>
+z[6] <= <GND>
+z[7] <= <GND>
+z[8] <= <GND>
+z[9] <= <GND>
+z[10] <= <GND>
+z[11] <= <GND>
+z[12] <= <GND>
+z[13] <= <GND>
+z[14] <= <GND>
+z[15] <= <GND>
+z[16] <= <GND>
+z[17] <= <GND>
+z[18] <= <GND>
+z[19] <= <GND>
+z[20] <= <GND>
+z[21] <= <GND>
+z[22] <= <GND>
+z[23] <= <GND>
+z[24] <= <GND>
+z[25] <= <GND>
+z[26] <= <GND>
+z[27] <= <GND>
+z[28] <= <GND>
+z[29] <= <GND>
+z[30] <= <GND>
+z[31] <= <GND>
+
+

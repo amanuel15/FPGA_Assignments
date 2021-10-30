@@ -1,0 +1,8 @@
+|Num1B
+a => Nor3.IN1
+b => Nor2.IN0
+c => Nor2.IN1
+d => ~NO_FANOUT~
+f <= Nor3.DB_MAX_OUTPUT_PORT_TYPE
+
+

@@ -1,0 +1,8 @@
+vendor_name = ModelSim
+source_file = 1, F:/5thYear/Endrias/Project/Assignment2/Num1A/Num1A.v
+source_file = 1, F:/5thYear/Endrias/Project/Assignment2/Num1A/db/Num1A.cbx.xml
+design_name = Num1A
+instance = comp, \a~I , a, Num1A, 1
+instance = comp, \b~I , b, Num1A, 1
+instance = comp, \Nor3~0 , Nor3~0, Num1A, 1
+instance = comp, \f~I , f, Num1A, 1

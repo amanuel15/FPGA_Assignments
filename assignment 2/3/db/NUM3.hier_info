@@ -1,0 +1,36 @@
+|NUM3
+input1 => ~NO_FANOUT~
+output1[0] <= <GND>
+output1[1] <= <GND>
+output1[2] <= <GND>
+output1[3] <= <GND>
+output1[4] <= <GND>
+output1[5] <= <GND>
+output1[6] <= <GND>
+output1[7] <= <GND>
+output1[8] <= <GND>
+output1[9] <= <GND>
+output1[10] <= <GND>
+output1[11] <= <GND>
+output1[12] <= <GND>
+output1[13] <= <GND>
+output1[14] <= <GND>
+output1[15] <= <GND>
+output1[16] <= <GND>
+output1[17] <= <GND>
+output1[18] <= <GND>
+output1[19] <= <GND>
+output1[20] <= <GND>
+output1[21] <= <GND>
+output1[22] <= <GND>
+output1[23] <= <GND>
+output1[24] <= <GND>
+output1[25] <= <GND>
+output1[26] <= <GND>
+output1[27] <= <GND>
+output1[28] <= <GND>
+output1[29] <= <GND>
+output1[30] <= <GND>
+output1[31] <= <GND>
+
+
